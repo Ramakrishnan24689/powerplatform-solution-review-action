@@ -1,6 +1,6 @@
 # Power Platform Review Action
 
-A GitHub Action that automatically reviews Power Platform solutions for best practices, security, and quality standards using the `powerplatform-review-tool` NPM package.
+A GitHub Action that automatically reviews Power Platform solutions for best practices, security, and quality standards using the [powerplatform-review-tool](https://www.npmjs.com/package/powerplatform-review-tool) NPM package.
 
 ## 🚀 Features
 
