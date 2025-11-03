@@ -272,9 +272,6 @@ Enable verbose logging:
 
 ## 📚 Documentation Links
 
-- [Workflow Documentation](.github/workflows/README.md)
-- [Local Testing Guide](.github/TESTING_LOCALLY.md)
-- [Quick Setup Reference](.github/QUICK_SETUP.md)
 - [NPM Package](https://www.npmjs.com/package/powerplatform-review-tool)
 
 ## 🆘 Support
